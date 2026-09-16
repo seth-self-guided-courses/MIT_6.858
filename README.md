@@ -36,3 +36,8 @@
 
 <!-- > This is the main quote.
 >> This is a nested reply or sub-quote. -->
+
+
+- [How to cite](https://www.youtube.com/watch?v=oLg5fwnb13s)
+- [Bibatex](https://www.youtube.com/watch?v=SCQmdskBX-o)
+- [CSE138](https://users.soe.ucsc.edu/~lkuper/)
