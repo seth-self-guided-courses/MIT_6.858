@@ -1,0 +1,8 @@
+{ 
+    "latex-workshop.latex.outDir": "%DIR%/build", 
+    "latex-workshop.latex.autoBuild.run": "onSave",
+    "latex-workshop.latex.clean.subfolder.enabled": true,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+    "latex-workshop.view.pdf.internal.keyboardEvent": "force"
+}
