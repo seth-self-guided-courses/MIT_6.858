@@ -1,0 +1,2 @@
+1. Could ideas from CaMeL be incorporated into a coding agent (e.g., Claude Code)? Describe a realistic scenario involving a prompt injection attack against Claude Code, and explain why the techniques from the paper can (or cannot) prevent the attack.
+
